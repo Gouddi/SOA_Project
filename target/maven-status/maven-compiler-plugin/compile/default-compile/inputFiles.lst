@@ -1,0 +1,14 @@
+C:\Users\Yassine\Desktop\SOA PRJ\Medcin\src\main\java\com\example\demo\DemoApplication.java
+C:\Users\Yassine\Desktop\SOA PRJ\Medcin\src\main\java\com\example\demo\entities\Medecin.java
+C:\Users\Yassine\Desktop\SOA PRJ\Medcin\src\main\java\com\example\demo\entities\Patient.java
+C:\Users\Yassine\Desktop\SOA PRJ\Medcin\src\main\java\com\example\demo\entities\RendezVous.java
+C:\Users\Yassine\Desktop\SOA PRJ\Medcin\src\main\java\com\example\demo\entities\User.java
+C:\Users\Yassine\Desktop\SOA PRJ\Medcin\src\main\java\com\example\demo\MyConfig.java
+C:\Users\Yassine\Desktop\SOA PRJ\Medcin\src\main\java\com\example\demo\repostories\MedecinRepository.java
+C:\Users\Yassine\Desktop\SOA PRJ\Medcin\src\main\java\com\example\demo\repostories\PatientRepository.java
+C:\Users\Yassine\Desktop\SOA PRJ\Medcin\src\main\java\com\example\demo\repostories\RendezVousRepository.java
+C:\Users\Yassine\Desktop\SOA PRJ\Medcin\src\main\java\com\example\demo\repostories\UserRepository.java
+C:\Users\Yassine\Desktop\SOA PRJ\Medcin\src\main\java\com\example\demo\services\MedecinService.java
+C:\Users\Yassine\Desktop\SOA PRJ\Medcin\src\main\java\com\example\demo\services\PatientService.java
+C:\Users\Yassine\Desktop\SOA PRJ\Medcin\src\main\java\com\example\demo\services\RendezVousService.java
+C:\Users\Yassine\Desktop\SOA PRJ\Medcin\src\main\java\com\example\demo\services\UserService.java
